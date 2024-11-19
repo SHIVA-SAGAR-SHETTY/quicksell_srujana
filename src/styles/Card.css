@@ -7,3 +7,20 @@
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+/* Priority Styling */
+.card-low {
+    border-left: 4px solid #00aaff;
+}
+
+.card-medium {
+    border-left: 4px solid #ffaa00;
+}
+
+.card-high {
+    border-left: 4px solid #ff5500;
+}
+
+.card-urgent {
+    border-left: 4px solid #ff0000;
+}
